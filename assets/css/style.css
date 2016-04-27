@@ -137,10 +137,13 @@ header {
 }
 
 footer {
-	background: #666666;
-	float: bottom;
-	display: inline-block;
-	width: 100%;
+    background: #666666;
+    float: bottom;
+    display: inline-block;
+    width: 100%;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 8px;
 }
 
 h6 {
